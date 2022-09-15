@@ -19,9 +19,9 @@ int main(){
 	}
 	
 	//imprimir el orden
-	cout<<"Orden Ascendente";
+	cout<<"Orden Ascendente \n";
 	for(int i=0;i<8;i++){
-		cout<<numeros[i];
+		cout<<" "<<numeros[i];
 	}
 	 
 	
